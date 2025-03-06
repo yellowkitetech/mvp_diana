@@ -96,8 +96,6 @@ const Login = () => {
             </p>
             <div className="mt-2 text-xs text-muted-foreground">
               <p>admin@secom.gov.br - Acesso total</p>
-              <p>analista@secom.gov.br - Acesso parcial (sem financeiro/planejamento)</p>
-              <p>agencia@exemplo.com - Acesso limitado a processos próprios</p>
               <p className="mt-1">(Qualquer senha funciona nesta demo)</p>
             </div>
           </div>
